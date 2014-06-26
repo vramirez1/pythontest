@@ -1,4 +1,4 @@
-#Test python with datastore
+
 
 import cgi
 from google.appengine.api import users
